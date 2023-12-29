@@ -1,10 +1,5 @@
-import numpy as np
-import pandas as pd
 import openai
-import requests
-import json
 import time
-from pathlib import Path
 import threading
 import sounddevice as sd
 import numpy as np
